@@ -1,4 +1,4 @@
-# Success-of-an-upcoming-movie-
+# Success-of-an-upcoming-movie-Project1
 This project was Given by Bharat Intern in my Business Analytics internship.
 For this project, you need to predict the success of an
 upcoming movie so that whether or not a
